@@ -1,0 +1,5 @@
+db.sqlite3
+pyWhatKit_DB.txt
+config.py
+__pycache__/
+migrations/ 
